@@ -1,0 +1,41 @@
+#overview {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 136px;
+  margin-top: 95px;
+}
+.overview-intro {
+  display: flex;
+  flex-direction: column;
+}
+
+.light-title {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 65px;
+  letter-spacing: 0.1em;
+  color: #6FBCF0;
+}
+
+.subtitle {
+  font-family: 'Viga';
+  font-weight: 400;
+  color: #95beed;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.1em;
+}
+
+.backgroundImage1 {
+  width: 580px;
+  height: 200px;
+  background: #fff;
+}
+
+.overview-intro-redirect-btn {
+  margin-top: 52px;
+  align-self: center;
+}

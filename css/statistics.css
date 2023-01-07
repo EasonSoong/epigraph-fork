@@ -1,0 +1,7 @@
+.statistics {
+  display: flex;
+  height: 230px;
+  margin-top: 160px;
+  background: linear-gradient(89.95deg, rgba(241, 250, 255, 0.5) 0.02%, rgba(109, 203, 255, 0) 93.97%);
+  filter: blur(2px);
+}
