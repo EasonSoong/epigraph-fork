@@ -5,3 +5,52 @@
   background: linear-gradient(89.95deg, rgba(241, 250, 255, 0.5) 0.02%, rgba(109, 203, 255, 0) 93.97%);
   filter: blur(2px);
 }
+
+#num5000 {
+  font-size: 48px;
+  font-family: 'Viga';
+  font-weight: 400;
+  text-align: center;
+  line-height: 64.51px;
+  color: #6fbcf0;
+}
+#text1 {
+  font-size: 24px;
+  font-family: 'Viga';
+  font-weight: 400;
+  text-align: center;
+  line-height: 32.26px;
+  color: #95beed;
+}
+#num230 {
+  font-size: 48px;
+  font-family: 'Viga';
+  font-weight: 400;
+  text-align: center;
+  line-height: 64.51px;
+  color: #6fbcf0;
+}
+#text2 {
+  font-size: 24px;
+  font-family: 'Viga';
+  font-weight: 400;
+  text-align: center;
+  line-height: 32.26px;
+  color: #95beed;
+}
+#num300 {
+  font-size: 48px;
+  font-family: 'Viga';
+  font-weight: 400;
+  text-align: center;
+  line-height: 64.51px;
+  color: #6fbcf0;
+}
+#text3 {
+  font-size: 24px;
+  font-family: 'Viga';
+  font-weight: 400;
+  text-align: center;
+  line-height: 32.26px;
+  color: #95beed;
+}
