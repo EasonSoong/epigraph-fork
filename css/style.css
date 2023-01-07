@@ -43,121 +43,14 @@ a {
   padding: 0;
 }
 
-#num5000 {
-  font-size: 48px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 64.51px;
-  color: #6fbcf0;
+.box1 {
+  width: 500px;
 }
-#text1 {
-  font-size: 24px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 32.26px;
-  color: #95beed;
+.box2 {
+  width: 500px;
 }
-#num230 {
-  font-size: 48px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 64.51px;
-  color: #6fbcf0;
-}
-#text2 {
-  font-size: 24px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 32.26px;
-  color: #95beed;
-}
-#num300 {
-  font-size: 48px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 64.51px;
-  color: #6fbcf0;
-}
-#text3 {
-  font-size: 24px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 32.26px;
-  color: #95beed;
-}
-.products {
-  display: flex;
-  height: 230px;
-}
-#SAVINGS {
-  font-size: 48px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 64.51px;
-  color: #6fbcf0;
-}
-#ptext1 {
-  font-size: 24px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 32.26px;
-  color: #95beed;
-}
-#SAVINGS {
-  font-size: 48px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 64.51px;
-  color: #6fbcf0;
-}
-#ptext1 {
-  font-size: 24px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 32.26px;
-  color: #95beed;
-}
-#FARMING {
-  font-size: 48px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 64.51px;
-  color: #6fbcf0;
-}
-#ptext2 {
-  font-size: 24px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 32.26px;
-  color: #95beed;
-}
-#FUND {
-  font-size: 48px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 64.51px;
-  color: #6fbcf0;
-}
-#ptext3 {
-  font-size: 24px;
-  font-family: Viga;
-  font-weight: 400;
-  text-align: center;
-  line-height: 32.26px;
-  color: #95beed;
+.box3 {
+  width: 500px;
 }
 
 .linear-gradient-btn {

@@ -1,0 +1,51 @@
+.products {
+    display: flex;
+    height: 230px;
+    margin-top: 92px;
+}
+
+.product-name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #6fbcf0;
+}
+
+.product-box {
+    display: flex;
+    height: 230px;
+    width: 33.33%;
+    position: relative;
+    padding: 0 100px;
+}
+
+.product-num {
+    width: 80px;
+    height: 120px;
+    position: absolute;
+    left: 36px;
+    bottom: 155px;
+}
+
+.product-title {
+    font-size: 20px;
+    font-family: 'Viga';
+    font-weight: 400;
+    line-height: 27px;
+    color: #95beed;
+    letter-spacing: 0.15em;
+}
+
+.product-intro {
+    font-size: 18px;
+    font-family: 'Viga';
+    font-weight: 400;
+    line-height: 24px;
+    color: #95beed;
+    letter-spacing: 0.15em;
+}
