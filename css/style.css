@@ -189,3 +189,71 @@ html {
     line-height: 32.26px;
     color: #95BEED;
   }
+  .products {
+    display: flex;
+    height: 230px;
+  }
+  #SAVINGS {
+    font-size: 48px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 64.51px;
+    color: #6FBCF0;
+  }
+  #ptext1 {
+    font-size: 24px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 32.26px;
+    color: #95BEED;
+  }
+  #SAVINGS {
+    font-size: 48px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 64.51px;
+    color: #6FBCF0;
+  }
+  #ptext1 {
+    font-size: 24px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 32.26px;
+    color: #95BEED;
+  }
+  #FARMING {
+    font-size: 48px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 64.51px;
+    color: #6FBCF0;
+  }
+  #ptext2 {
+    font-size: 24px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 32.26px;
+    color: #95BEED;
+  }
+  #FUND {
+    font-size: 48px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 64.51px;
+    color: #6FBCF0;
+  }
+  #ptext3 {
+    font-size: 24px;
+    font-family: Viga;
+    font-weight: 400;
+    text-align: center;
+    line-height: 32.26px;
+    color: #95BEED;
+  }
