@@ -8,6 +8,7 @@
 .overview-intro {
   display: flex;
   flex-direction: column;
+  flex: 2 2 0;
 }
 
 .light-title {
@@ -30,9 +31,12 @@
 }
 
 .backgroundImage1 {
-  width: 600px;
-  height: 200px;
+  flex: 1 1 0;
   background: transparent;
+}
+
+.backgroundImage1 img {
+  width: 100%;
 }
 
 .overview-intro-redirect-btn {

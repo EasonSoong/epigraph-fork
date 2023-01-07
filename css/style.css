@@ -26,6 +26,7 @@ body {
   padding-top: 54px;
   background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(167.98deg, #DEE9EE -5.37%, #FFFFFF -4.54%, #E8F2FF 7.09%, #E6EFFE 35.34%, #D0E2FF 54.47%, #E6EFFE 107.03%);
   backdrop-filter: blur(2px);
+  padding-bottom: 116px;
 }
 
 html {
