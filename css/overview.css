@@ -30,9 +30,9 @@
 }
 
 .backgroundImage1 {
-  width: 580px;
+  width: 600px;
   height: 200px;
-  background: #fff;
+  background: transparent;
 }
 
 .overview-intro-redirect-btn {

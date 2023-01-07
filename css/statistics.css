@@ -1,7 +1,25 @@
 .statistics {
   display: flex;
-  height: 230px;
+  height: 223px;
   margin-top: 160px;
-  background: linear-gradient(89.95deg, rgba(241, 250, 255, 0.5) 0.02%, rgba(109, 203, 255, 0) 93.97%);
+  position: relative;
+  align-items: center;
+}
+.statistics-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, rgb(243, 250, 255) 0%, rgb(226, 245, 255) 50%, rgb(243, 248, 255) 100%);
   filter: blur(2px);
+}
+
+.statistics-box {
+  background: transparent;
+  z-index: 1;
+  flex: 1 1 0;
+  height: 158px;
+  border-right: 1px solid #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
