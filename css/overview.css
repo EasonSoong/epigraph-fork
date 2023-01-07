@@ -3,12 +3,14 @@
   align-items: center;
   justify-content: flex-start;
   padding-left: 136px;
-  margin-top: 95px;
+  padding-right: 32px;
+  margin-top: 160px;
 }
 .overview-intro {
   display: flex;
   flex-direction: column;
-  flex: 2 2 0;
+  flex: 3 3 0;
+  padding-right: 40px;
 }
 
 .light-title {
@@ -31,7 +33,7 @@
 }
 
 .backgroundImage1 {
-  flex: 1 1 0;
+  flex: 2 2 0;
   background: transparent;
 }
 
