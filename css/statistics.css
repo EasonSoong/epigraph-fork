@@ -22,6 +22,28 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+}
+.statistics-box-num {
+  font-family: 'Viga';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 65px;
+  letter-spacing: 0.1em;
+  color: #6FBCF0;
+}
+.statistics-box-intro {
+  font-family: 'Viga';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #95BEED;
 }
 
 #num5000 {

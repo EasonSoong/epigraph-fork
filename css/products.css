@@ -4,18 +4,6 @@
     margin-top: 92px;
 }
 
-.product-name {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 24px;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.1em;
-    color: #6fbcf0;
-}
-
 .product-box {
     display: flex;
     height: 230px;
@@ -25,11 +13,14 @@
 }
 
 .product-num {
-    width: 80px;
     height: 120px;
     position: absolute;
-    left: 36px;
-    bottom: 155px;
+    left: 40px;
+    bottom: 160px;
+}
+
+.product-info {
+    z-index: 1;
 }
 
 .product-title {

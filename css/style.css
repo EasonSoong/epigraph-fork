@@ -21,10 +21,11 @@
   src: url("../fonts/Roboto.ttf") format("opentype");
 }
 body {
-  background-color: #f4f9ff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   padding-top: 54px;
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(167.98deg, #DEE9EE -5.37%, #FFFFFF -4.54%, #E8F2FF 7.09%, #E6EFFE 35.34%, #D0E2FF 54.47%, #E6EFFE 107.03%);
+  backdrop-filter: blur(2px);
 }
 
 html {
@@ -71,4 +72,24 @@ a {
   font-size: 13px;
   letter-spacing: 0.15em;
   white-space: nowrap;
+}
+
+.section-name {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #6fbcf0;
+}
+
+.section-img-content {
+  text-align: center;
+}
+
+.section-img-content img {
+  width: 90%;
 }
